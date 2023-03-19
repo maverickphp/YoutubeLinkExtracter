@@ -12,7 +12,7 @@ YOUTUBE_API_VERSION = "v3"
 youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY)
 
 # Define the search query
-query = "roboloxgamesbloxburg"
+query = "KeyWordName"
 
 # Execute the search and extract the video URLs
 video_urls = []
